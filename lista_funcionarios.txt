@@ -1,0 +1,6 @@
+w Reescreve o arquivo inteiro
+1º Linha
+2 ºLinha
+3º Linha
+4º Linha
+5º Linha
